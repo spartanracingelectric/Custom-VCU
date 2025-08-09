@@ -1,3 +1,6 @@
 # Custom-VCU
-Firmware: Carlie Yem
-Hardware: Terence Hang
+
+Designers
+  Firmware: Carlie Yem
+  Hardware: Terence Hang
+            Charvi Polisetty
